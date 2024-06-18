@@ -20,15 +20,17 @@ Pour utiliser Carvilator, suivez les étapes suivantes :
    - cd carvilator
    - python3 carvilator.py
   
-  Installer les dépendances :
+  ## Installer les dépendances :
 
 Assurez-vous d'avoir tqdm installé. Vous pouvez l'installer via pip :
 
    - pip install tqdm
-Utilisation
+     
+## Utilisation
+
 Carvilator nécessite deux arguments : le chemin vers le disque ou l'image disque à analyser et le dossier où sauvegarder les fichiers récupérés.
 
-Exemple d'utilisation :
+## Exemple d'utilisation :
 
    - python carvilator.py -i /path/to/disk/image -o /path/to/output/folder
 Options
@@ -41,7 +43,7 @@ Exemple
      
 Ce script analysera le disque /dev/sdX et sauvegardera les fichiers récupérés dans le dossier /home/user/recovered_files.
 
-Remerciements
+## Remerciements
 Merci d'utiliser Carvilator pour vos besoins de récupération de fichiers. Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub.
 
 ![image](https://github.com/AbdellahWB/Carvilator/assets/99265207/ab32cbb3-7b5f-4fb0-ba54-3d673ad42b80)
