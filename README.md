@@ -33,10 +33,13 @@ Carvilator nécessite deux arguments : le chemin vers le disque ou l'image disqu
 ## Exemple d'utilisation :
 
    - python carvilator.py -i /path/to/disk/image -o /path/to/output/folder
-Options
+     
+Options :
+
    -i, --input : Chemin du disque ou de l'image disque à analyser (obligatoire).
    -o, --output : Dossier où sauvegarder les fichiers récupérés (obligatoire).
    -v, --version : Affiche la version de Carvilator.
+   
 Exemple
 
    - python carvilator.py -i /dev/sdX -o /home/user/recovered_files
