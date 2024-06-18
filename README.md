@@ -1,6 +1,5 @@
-# Carvilator
-                        Carvilator - File carving script 
-                           Copyright© @Abdellah WAHBI               
+      Carvilator - File carving script 
+        Copyright© @Abdellah WAHBI                         
 # Carvilator 1.0
 
 Carvilator est un script de récupération de fichiers (file carving) à partir d'un disque ou d'une image disque. Il supporte plusieurs types de fichiers, dont les images JPEG, les documents PDF, les fichiers MP3, et bien d'autres.
@@ -44,4 +43,5 @@ Ce script analysera le disque /dev/sdX et sauvegardera les fichiers récupérés
 
 Remerciements
 Merci d'utiliser Carvilator pour vos besoins de récupération de fichiers. Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub.
+
 ![image](https://github.com/AbdellahWB/Carvilator/assets/99265207/ab32cbb3-7b5f-4fb0-ba54-3d673ad42b80)
