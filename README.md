@@ -51,5 +51,6 @@ Ce script analysera le disque /dev/sdX et sauvegardera les fichiers récupérés
 
 ## Remerciements
 Merci d'utiliser Carvilator pour vos besoins de récupération de fichiers. Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub.
+
 ![CAP2](https://github.com/AbdellahWB/Carvilator/assets/99265207/f2368989-94b7-43ae-9249-64220945cc00)
-![CAP1](https://github.com/AbdellahWB/Carvilator/assets/99265207/dc0cb824-1292-485a-ad68-d2671b59f186)
+
