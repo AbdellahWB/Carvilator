@@ -21,7 +21,7 @@ Pour utiliser Carvilator, suivez les étapes suivantes :
 
    - git clone https://github.com/AbdellahWB/Carvilator.git
    - cd carvilator
-   - python3 carvilator.py
+   - python3 carvilator.py -h
   
   ## Installer les dépendances :
 
@@ -34,8 +34,9 @@ Assurez-vous d'avoir tqdm installé. Vous pouvez l'installer via pip :
 Carvilator nécessite deux arguments : le chemin vers le disque ou l'image disque à analyser et le dossier où sauvegarder les fichiers récupérés.
 
 ## Exemple d'utilisation :
-
-   - python carvilator.py -i /path/to/disk/image -o /path/to/output/folder
+   - python3 carvilator.py -h
+   - python3 carvilator.py -v
+   - python3 carvilator.py -i /path/to/disk/image -o /path/to/output/folder
      
 Options :
 
@@ -45,7 +46,7 @@ Options :
    
 Exemple
 
-   - python carvilator.py -i /dev/sdX -o /home/user/recovered_files
+   - python3 carvilator.py -i /dev/sdX -o /home/user/recovered_files
      
 Ce script analysera le disque /dev/sdX et sauvegardera les fichiers récupérés dans le dossier /home/user/recovered_files.
 
