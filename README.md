@@ -16,7 +16,7 @@ Pour utiliser Carvilator, suivez les étapes suivantes :
 
 1. **Cloner le dépôt GitHub :**
 
-   - git clone https://github.com/votre-utilisateur/carvilator.git
+   - git clone https://github.com/AbdellahWB/Carvilator.git
    - cd carvilator
    - python3 carvilator.py
   
