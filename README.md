@@ -36,9 +36,9 @@ Carvilator nécessite deux arguments : le chemin vers le disque ou l'image disqu
      
 Options :
 
-   -i, --input : Chemin du disque ou de l'image disque à analyser (obligatoire).
-   -o, --output : Dossier où sauvegarder les fichiers récupérés (obligatoire).
-   -v, --version : Affiche la version de Carvilator.
+      -i, --input : Chemin du disque ou de l'image disque à analyser (obligatoire).
+      -o, --output : Dossier où sauvegarder les fichiers récupérés (obligatoire).
+      -v, --version : Affiche la version de Carvilator.
    
 Exemple
 
